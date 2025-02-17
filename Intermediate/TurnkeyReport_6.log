@@ -1,0 +1,2 @@
+IOS: (Status=Invalid, MinAllowed_Sdk=14.1.0, MaxAllowed_Sdk=15.9.9, Current_Sdk=16.2, Allowed_AutoSdk=14.1, Current_AutoSdk=, Flags="InstalledSdk_InvalidVersionExists, Platform_ValidHostPrerequisites")
+IOS@00008110-000C71EE1120401E: (Name=ljxiPhone , Type=iPhone14,6, Status=Valid, , Flags="Device_InstallSoftwareValid", Connection="USB")
